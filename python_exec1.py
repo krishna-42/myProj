@@ -1,7 +1,7 @@
 import os
 
 #Import the necessary packages
-
+#Simple interest
 
 def sim_int(p,n,r): 
     p= int(input())
@@ -14,7 +14,8 @@ def sim_int(p,n,r):
     
     
     return si
-      
+# Ceiling Floor
+
 import math
 
 def ceil_floor(a,b):
@@ -25,6 +26,7 @@ def ceil_floor(a,b):
 
 
     return a,b
+# Squareroot
 
 from math import sqrt
 def lists():
